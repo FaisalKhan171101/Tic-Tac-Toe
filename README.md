@@ -1,6 +1,6 @@
 # React tutorial XOX(Tic-Tac-Toe) game with TypeScript and Hooks
 
-### [Demo](https://react-xox-game.netlify.app/)
+### Demo : https://react-xox-game.netlify.app/
 
 ## Available Scripts
 
